@@ -27,7 +27,7 @@ html, body {
   bottom: 0;
   left: 0;
   background-repeat: no-repeat;
-  background-position: left bottom;
+  background-position: center bottom;
   background-size: 500px;
   background-image: url("../img/32.jpg");
 }
@@ -64,12 +64,12 @@ html, body {
   font-size: 1.7em;
   text-align: center;
 }
-.form-structor .signup .form-title span {
+/* .form-structor .signup .form-title span {
   color: rgba(0, 0, 0, 0.4);
   opacity: 0;
   visibility: hidden;
   transition: all 0.3s ease;
-}
+} */
 .form-structor .signup .form-holder {
   border-radius: 15px;
   background-color: #fff;
@@ -154,12 +154,12 @@ html, body {
   font-size: 1.7em;
   text-align: center;
 }
-.form-structor .login .center .form-title span {
+/* .form-structor .login .center .form-title span {
   color: rgba(0, 0, 0, 0.4);
   opacity: 0;
   visibility: hidden;
   transition: all 0.3s ease;
-}
+} */
 .form-structor .login .center .form-holder {
   border-radius: 15px;
   background-color: #fff;
